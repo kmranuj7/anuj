@@ -5,6 +5,6 @@
 </head>
 <body>
 <h1> first code </h1>
-<h2> second code </h2>
+<h2> second codde </h2>
 </body>
 </html>
